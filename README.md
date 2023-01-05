@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi👋, I'm Felipe Fogaça
 
-<!--
-**felipefogaca/felipefogaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ - 🚀 Full Stack Developer & technology enthusiast
+ - 👨🏻‍💻I'm currently working at [@ediaz-solutions](https://github.com/ediaz-solutions)
+ - 💭 Ask me about .NET, C#, ReactJs, Node.JS, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+<p align="left" style="background:yellow">
+
+<a href="https://www.linkedin.com/in/felipe-foga%C3%A7a-792a18111/" target="_blank">
+
+<img align="center" src="https://img.shields.io/badge/-felipefogaca-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+
+</a>
+
+<a href="https://instagram.com/_foogaca" target="_blank">
+
+<img align="center" src="https://img.shields.io/badge/-felipefogaca-05122A?style=flat&logo=instagram" alt="instagram"/>
+
+</a>
+
+<a href="https://youtube.com/maykbrito" target="_blank">
+
+<img align="center" src="https://img.shields.io/badge/-felipe.foogaca@gmail.com-05122A?style=flat&logo=gmail" alt="youtube"/>
+
+</a>
+
+</p>
