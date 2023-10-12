@@ -10,13 +10,13 @@
 
 <a href="https://www.linkedin.com/in/fogacafe" target="_blank">
 
-<img align="center" src="https://img.shields.io/badge/-felipefogaca-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<img align="center" src="https://img.shields.io/badge/-fogacafe-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 
 </a>
 
 <a href="https://instagram.com/_foogaca" target="_blank">
 
-<img align="center" src="https://img.shields.io/badge/-felipefogaca-05122A?style=flat&logo=instagram" alt="instagram"/>
+<img align="center" src="https://img.shields.io/badge/-_foogaca-05122A?style=flat&logo=instagram" alt="instagram"/>
 
 </a>
 </p>
