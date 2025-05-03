@@ -2,7 +2,7 @@
 
 
  - 🚀 Full Stack Developer & technology enthusiast
- - 👨🏻‍💻I'm currently working at [@ediaz-solutions](https://github.com/ediaz-solutions)
+ - 👨🏻‍💻I'm currently working at BTG Pactual
  - 💭 Ask me about .NET, C#, ReactJs, Node.JS, SQL
 
 ## Contact
